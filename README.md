@@ -14,3 +14,5 @@ RGB-изображение произвольного размера с одни
 
 Изображения хранились в папках train и test, а ответы к ним - в csv-файлах train.csv и test.csv (подготовлены на основе umdfaces_batch3_ultraface.csv). В csv-файлах данные хранилась в виде название изображения (id-строка) и соответсвующие данному изображению ответы - координаты левой нижней и правой верхней вершин ограничительной рамки. 
 В [данном скрипте](https://github.com/Gumilevski/face_detection_with_CNNs/blob/master/generating_script.ipynb) может быть найдена реализация подготовки обучающей выборки
+
+## Описание первой модели ([CNN.ipynb](https://github.com/Gumilevski/face_detection_with_CNNs/blob/master/CNN.ipynb))
