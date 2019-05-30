@@ -16,3 +16,6 @@ RGB-изображение произвольного размера с одни
 В [данном скрипте](https://github.com/Gumilevski/face_detection_with_CNNs/blob/master/generating_script.ipynb) может быть найдена реализация подготовки обучающей выборки
 
 ## Описание первой модели ([CNN.ipynb](https://github.com/Gumilevski/face_detection_with_CNNs/blob/master/CNN.ipynb))
+Теперь, когда обучающая выборка подготовлена, можем приступать к построению и обучению моделей.
+Её архитектура представлена на рисунке ниже:
+![architecture 1](https://github.com/Gumilevski/face_detection_with_CNNs/blob/master/images/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%201.png)
